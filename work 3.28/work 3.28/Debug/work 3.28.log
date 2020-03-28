@@ -1,0 +1,3 @@
+﻿  work 3.28.c
+C:\Users\竹洋\source\repos\work 3.28\work 3.28\work 3.28.c(21,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  work 3.28.vcxproj -> C:\Users\竹洋\source\repos\work 3.28\Debug\work 3.28.exe
